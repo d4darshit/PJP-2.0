@@ -13,3 +13,8 @@
 ## Maven 
    
     Maven shell scripts to demonstrate all goals, and other functionalities	
+
+## Jenkins and UML
+ 
+   1. Automating Date Time calculator packaging process using DSL script
+   2. UML diagram for Date Time calculator
