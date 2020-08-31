@@ -16,5 +16,5 @@
 
 ## Jenkins and UML
  
-   1. Automating Date Time calculator packaging process using DSL script
+   1. Jenkins pipeline using DSL script
    2. UML diagram for Date Time calculator
